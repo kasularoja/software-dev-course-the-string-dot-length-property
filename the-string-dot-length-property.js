@@ -23,10 +23,10 @@ let stringThree = "";
 let lengthOne = stringOne.length;   // Length of stringOne
 let lengthTwo = stringTwo.length;   // Length of stringTwo
 let lengthThree = stringThree.length; // Length of stringThree
-console.log(lengthOne);
-console.log(lengthTwo);
-console.log(lengthThree);
 // Your code here
+console.log("length of the first string is: " + lengthOne);
+console.log("lenght of the second string is: " + lengthTwo);
+console.log("length of the third string is: " + lengthThree);
 
 
 
